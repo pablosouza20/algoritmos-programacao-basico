@@ -1,2 +1,2 @@
-# algoritmos-programacao-basico
+# algoritmos e programacao basico
 
