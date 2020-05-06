@@ -1,2 +1,3 @@
 # algoritmos-programacao-basico
-Estudo sobre desvios condicionais
+Exercicios de programação
+básicos, temas abordados: desvios condicionais, comandos de seleção, estrutura de repetição, vetores e matrizes
